@@ -1,0 +1,7 @@
+﻿Rig Guru/backend/.env
+Rig Guru/frontend/.env.local
+Rig Guru/backend/rag_data/
+Rig Guru/frontend/node_modules/
+Rig Guru/frontend/.next/
+Rig Guru/backend/__pycache__/
+Rig Guru/backend/.venv/
