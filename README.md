@@ -1,0 +1,2 @@
+# rig-guru-
+for friends
