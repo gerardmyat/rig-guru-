@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+itsdangerous>=2.0
+pydantic
+python-dotenv
+sqlalchemy
+psycopg2-binary
+httpx
+beautifulsoup4
+google-genai
+pypdf
+passlib[bcrypt]
+bcrypt>=4.0
+google-auth
+email-validator

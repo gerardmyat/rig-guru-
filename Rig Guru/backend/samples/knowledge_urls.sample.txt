@@ -1,0 +1,8 @@
+# Add one URL per line (https://...). Lines starting with # are ignored.
+# After you save this file, run from the backend/ folder:
+#   python -m tools.rag_ingest --file samples/knowledge_urls.sample.txt
+# Run again whenever you add or change URLs. Copy this file if you want a private list (e.g. my_urls.txt).
+
+https://en.wikipedia.org/wiki/Mobile_device_management
+https://en.wikipedia.org/wiki/Computer_hardware
+https://www.bestlaptop.deals/articles?location=us

@@ -1,0 +1,7 @@
+__pycache__
+venv
+.env
+.pytest_cache
+rag_data/
+# PDFs for RAG live under samples/rag_pdfs/ (keep repo small; respect licensing)
+samples/rag_pdfs/**/*.pdf
